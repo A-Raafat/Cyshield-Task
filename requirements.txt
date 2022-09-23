@@ -3,6 +3,6 @@ streamlit
 pillow
 numpy
 opencv-python
-skimage
+scikit-image
 scipy
 tensorflow
