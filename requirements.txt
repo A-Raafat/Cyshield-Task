@@ -1,6 +1,6 @@
 easyocr
 streamlit
-pillow==7.1.2
+pillow
 numpy==1.21.6
 opencv-python==4.5.5.64
 scikit-image==0.18.3
